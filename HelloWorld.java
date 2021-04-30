@@ -10,6 +10,8 @@ public class HelloWorld {
 		System.out.println("Hello, Charlie.");
 		System.out.println("Hello, Denise.");
 		System.out.println("Hello, Ester.");
+		
+		System.out.println("\nCurrent date is "+DatingExpert.getDate());
 	}
 
 }
