@@ -10,6 +10,9 @@ public class HelloWorld {
 		System.out.println("Hello, Charlie.");
 		System.out.println("Hello, Denise.");
 		System.out.println("Hello, Ester.");
+		
+		System.out.println("Current free memory (in bytes) is: "
+								+MemoryExpert.getMemory());
 	}
 
 }
