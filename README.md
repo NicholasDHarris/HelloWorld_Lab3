@@ -7,3 +7,6 @@
 # from the remote branch, which I think would have deleted the Hello messages to A, B, C and D.
 # So I did a remote push first. Then I added some text (writing it now) to README.md
 # at GitHub so that there would be something to pull from the remote repo.
+#
+# Now I'm adding this line after the Step 5.5 Ester commit to see its effect, if any.
+# When I do the pull locally this change will be here.
