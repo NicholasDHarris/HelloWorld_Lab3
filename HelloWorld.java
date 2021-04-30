@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("\nHello, Alice.");		
 		System.out.println("\nHello, Bob.");
 		System.out.println("\nHello, Charlie.");
+		System.out.println("\nHello, Denise.");
 	}
 
 }
