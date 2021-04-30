@@ -11,8 +11,9 @@ public class HelloWorld {
 		System.out.println("Hello, Denise.");
 		System.out.println("Hello, Ester.");
 		
-		System.out.println("Current free memory (in bytes) is: "
+		System.out.println("\nCurrent free memory (in bytes) is: "
 								+MemoryExpert.getMemory());
+		System.out.println("\nCurrent date is "+DatingExpert.getDate());
 	}
 
 }
