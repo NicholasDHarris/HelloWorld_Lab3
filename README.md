@@ -1,12 +1,7 @@
-# HelloWorld_Lab2_Try2
+# HelloWorld_Lab3
+#
+# I decided to create my Lab 3 repo by cloning the Lab 2 repo
+# so that you would have two distinct repos to look at and grade.
 #
 # Log of events:
-# It had been ahwile since lab 1, so I redid the second part of lab 1 to start.
-#
-# When I got to Step 5.1 in Lab 2, your instructions made it look like you wanted to pull.
-# from the remote branch, which I think would have deleted the Hello messages to A, B, C and D.
-# So I did a remote push first. Then I added some text (writing it now) to README.md
-# at GitHub so that there would be something to pull from the remote repo.
-#
-# Now I'm adding this line after the Step 5.5 Ester commit to see its effect, if any.
-# When I do the pull locally this change will be here.
+# <> Clone successful.
